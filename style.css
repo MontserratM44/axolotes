@@ -1,0 +1,52 @@
+.titulo {
+    color: rgba(100, 10, 96, 0.836);
+    text-align: center;
+    font-family: 'Moirai One', cursive;
+    font-size: 50px;
+}
+.Subt{ 
+text-align: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:darkmagenta;
+    border-radius: 30px;
+    
+}
+
+img{
+    width: 500px;
+    
+}
+
+.Axo1{
+    width: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    align-items: center;
+}
+
+body{
+    background-color: rgb(204, 175, 175);
+    color: black;
+    font-family: 'Preahvihear', sans-serif;
+
+    /* comentario */
+    /* selector { 
+        propiedad : valor;
+    } */
+}
+p{
+    color: darkmagenta;
+   text-align:justify
+    ;
+}
+
+a{
+    color:plum;
+    
+}
